@@ -61,7 +61,7 @@ Some models in the MODELS folder are removed because they exceed the 10MB limit 
 # How to Run
 In order to run the implementation and fully understand it, run every code snippet. Note that the hyperparameter tuning for the MLPClassifier and HistGradientBoostingClassifier will take a few hours.  
 
-The python notebooks are recommended to be visited in the following order. Please check Folder Items to see where the files are in the Gdrive. In the Uvle submission, datasets and models that are more than 10MB are removed so, please check the google drive for the complete collection of files. We do not recommend running notebooks 3 to 4 as it takes hours to conclude. 
+The python notebooks are recommended to be visited in the following order. Please check Folder Items to see where the files are in the Gdrive. In the Uvle submission, datasets and models that are more than 10MB are removed so, please check the google drive for the complete collection of files. We do not recommend running notebooks 3 and 4 as it takes several hours to finish. 
 1. Data_Preprocessing.ipynb
 2. Decision Tree Training.ipynb
 3. MLP_Training.ipynb
